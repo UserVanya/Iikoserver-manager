@@ -1,0 +1,12 @@
+# Пример конфигурации iikoserver API
+# Скопируйте этот файл как config.yml и заполните реальными значениями
+
+iikoserver:
+  # Хост сервера (например: myserver.iiko.it)
+  host: "your-server.iiko.it"
+
+  # Логин пользователя iikoserver
+  login: "your_login"
+
+  # Пароль пользователя (будет хеширован SHA1 автоматически)
+  password: "your_password"
